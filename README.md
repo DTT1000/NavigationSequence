@@ -2,7 +2,7 @@
 
 **NavigationSequence** is a SwiftUI implementation that provides a structured, step-based navigation system with built-in validation.
 
-https://github.com/user-attachments/assets/ca3fca0b-5377-4b2c-9130-b435476bfa55
+https://github.com/user-attachments/assets/125f34b1-528a-4eb2-a7a7-0ea843df996b
 
 ## Features  
 ✅ Step-based navigation flow  
